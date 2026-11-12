@@ -17,7 +17,7 @@ keep it open in another tab - you'll type answers into it as you work, and it's 
 submit your repository at the end. Nothing is submitted by email or by messaging your
 instructor.
 
-**Time:** do **Part 1** during the 80-minute session. **Part 2** is a team task to finish
+**Time:** do **Part 1** during the 80-minute session. **Part 2** is a  task to finish
 **before Lab 02**. Ask the lab instructor whenever you get stuck - that's what they're
 here for.
 
@@ -234,7 +234,7 @@ Milestone 0 - see `project/overview.md` for the full project plan.
 
 ### Step 1 - Form your team
 
-Get into a team of **4-5 students**. Everyone needs a GitHub account.
+Form a team of **4-5 students**. Get help from your TA if you are unable to form a group on your own.  Everyone needs a GitHub account.
 
 ### Step 2 - Brainstorm and choose a topic
 
